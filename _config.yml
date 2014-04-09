@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 pygments:         true
+baseurl:          "https://gemmahaylett.github.io/Blog"
 
 # Permalinks
 permalink:        pretty

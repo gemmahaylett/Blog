@@ -1,5 +1,6 @@
 ---
-published: true
+layout: post
+title: Introducing Poole
 ---
 
 ## This is my first post

@@ -45,6 +45,7 @@ html,
 body {
   margin: 0;
   padding: 0;
+  font-family: 'Open Sans', sans-serif;
 }
 
 html {
@@ -104,6 +105,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  font-family: 'Didact Gothic', sans-serif;
 }
 
 strong {
